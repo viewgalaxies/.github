@@ -33,7 +33,7 @@ We believe space belongs to everyone! If you want to help us build the ultimate 
 
 - **Website:** [viewgalaxies.com](https://viewgalaxies.com)
 - **Twitter/X:** [@viewgalaxies](https://x.com/viewgalaxies)
-- **Email:** info@viewgalaxies.com
+- **Email:** info@viewgalaxies.com 
 
 ---
 
